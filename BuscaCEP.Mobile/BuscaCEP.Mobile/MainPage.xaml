@@ -6,9 +6,9 @@
              mc:Ignorable="d"
              x:Class="BuscaCEP.Mobile.MainPage">
 
-    <StackLayout>
+    <StackLayout BackgroundColor="LightGreen">
         <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
+        <Label Text="AgriToken - Blockchain v1.1 " 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
